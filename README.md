@@ -16,22 +16,21 @@
 
 <div align=center> 
   <div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JPA-3FCF8E?style=for-the-badge&logo=dataBricks&logoColor=black">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
   <br>
-  
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/JPA-3FCF8E?style=for-the-badge&logo=dataBricks&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/h2-4479A1?style=for-the-badge&logo=h2&logoColor=white"> 
   <br>
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <br>
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/naverCloufPlatform-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
+  <img src="https://img.shields.io/badge/ncp-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> 
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
   <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> 
@@ -48,37 +47,17 @@
   <br>
 </div>
 
-- FRAMEWORK VERSION: Spring Boot 2.4.1
-- VERSION: java 11
+- FRAMEWORK VERSION: Spring Boot 3.0
+- VERSION: java 17
 
-# 📝프로토타입 
-  - https://cloud.protopie.io/p/1fca4840995e91d69bb7a925
+# 📝서버구성도 
+![image](https://github.com/JShistory/OLOL_service/assets/98608723/c6890b83-6a65-45f0-be6a-43229c1df072)
+
 
 # 📁ERD
-![image](https://github.com/JShistory/capston_project_2023_03_21/assets/98608723/ed10cb7e-d656-442f-8c04-339427920648)
+![image](https://github.com/JShistory/OLOL_service/assets/98608723/0bebb8ec-5d2b-47cd-aae0-b396f608e0d5)
 
-
-# 📌주요기능
-## 소셜 로그인
-1. 카카오
-2. 구글
-3. 네이버
----
-- 환자(데이터) 추가,수정,삭제
-- 환자 데이터를 잘 가공해서 한 눈에 쉽게 보여줌
-
-
-![그림1 환자의 IoT패치 정보를 확인 할 수 있는 웹 서비스 로그인 페이지](https://github.com/JShistory/capston_project_2023_03_21/assets/98608723/ab190deb-3144-4ced-b5f0-d9da89b1ef68)
-![그림2 환자 목록 페이지](https://github.com/JShistory/capston_project_2023_03_21/assets/98608723/e0d0e8c3-4f56-4a06-81f8-a8a8288fc283)
-![그림3 환자의 IoT착용 데이터 페이지](https://github.com/JShistory/capston_project_2023_03_21/assets/98608723/6d5c58cd-ed32-42b9-b06d-6732415c8b34)
-
-
-
-
-# OLOL_service
-
-
-# 팀원 및 역할
+# 📌역할
 - 윤준석
   - 등산로, 맛집, 주차장 정보 기능
   - 알림 관련 기능 (페이지/푸시(FCM)/메일)
@@ -107,25 +86,10 @@
   - 관리자 페이지
   - 후기 기능
   - UI 개선 및 CSS 리팩토링
-    
-# 기술 스택
-- 백엔드
-  - Java 17
-  - Spring Boot
-  - Spring Data JPA
-- 프론트엔드
-  - HTML
-  - Java Script
-  - JQuery
-  - CSS
-  - Bootstrap
-- 인프라
-  - GitHub
-  - AWS
-  - Docker
-  - NginX
-  - Jenkins
- 
+
 ![image](https://github.com/JShistory/OLOL_service/assets/98608723/38fd5de4-f93f-4299-bd5e-91e4ff984e1c)
 ![image](https://github.com/JShistory/OLOL_service/assets/98608723/4b5fe09d-3d02-4113-be20-2f7aea01c2c2)
+
+
+
 
