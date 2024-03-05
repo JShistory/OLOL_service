@@ -37,22 +37,13 @@
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <br>
 </div>
-
- 
   <br>
 </div>
 
 - FRAMEWORK VERSION: Spring Boot 3.0
 - VERSION: java 17
 
-# 📝서버구성도 
-![image](https://github.com/JShistory/OLOL_service/assets/98608723/c6890b83-6a65-45f0-be6a-43229c1df072)
-
-
-# 📁ERD
-![image](https://github.com/JShistory/OLOL_service/assets/98608723/0bebb8ec-5d2b-47cd-aae0-b396f608e0d5)
-
-# 📌역할
+# 📌역할 및 기능
 - 윤준석
   - 등산로, 맛집, 주차장 정보 기능
   - 알림 관련 기능 (페이지/푸시(FCM)/메일)
@@ -84,6 +75,12 @@
 
 ![image](https://github.com/JShistory/OLOL_service/assets/98608723/38fd5de4-f93f-4299-bd5e-91e4ff984e1c)
 ![image](https://github.com/JShistory/OLOL_service/assets/98608723/4b5fe09d-3d02-4113-be20-2f7aea01c2c2)
+# 📝서버구성도 
+![image](https://github.com/JShistory/OLOL_service/assets/98608723/c6890b83-6a65-45f0-be6a-43229c1df072)
+# 📁ERD
+![image](https://github.com/JShistory/OLOL_service/assets/98608723/0bebb8ec-5d2b-47cd-aae0-b396f608e0d5)
+
+
 
 
 
