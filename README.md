@@ -73,8 +73,9 @@
   - 후기 기능
   - UI 개선 및 CSS 리팩토링
 
-![image](https://github.com/JShistory/OLOL_service/assets/98608723/38fd5de4-f93f-4299-bd5e-91e4ff984e1c)
-![image](https://github.com/JShistory/OLOL_service/assets/98608723/4b5fe09d-3d02-4113-be20-2f7aea01c2c2)
+# 사진
+https://www.notion.so/a4ffd828051a4829beaea0f389df9966?pvs=4
+
 # 📝서버구성도 
 ![image](https://github.com/JShistory/OLOL_service/assets/98608723/c6890b83-6a65-45f0-be6a-43229c1df072)
 # 📁ERD
