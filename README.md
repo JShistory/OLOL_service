@@ -73,7 +73,7 @@
   - 후기 기능
   - UI 개선 및 CSS 리팩토링
 
-# 사진
+# 📷사진 
 https://www.notion.so/a4ffd828051a4829beaea0f389df9966?pvs=4
 
 # 📝서버구성도 
